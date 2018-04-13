@@ -40,12 +40,12 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-  font-size: 16px;
+  font-size: 22px;
   font-weight: 400;
   font-style: italic;
   margin-bottom: 75px;
   text-transform: none;
-  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Calibri','Helvetica Neue', Helvetica, Arial, cursive;
 }
 
 @media (min-width: 768px) {
@@ -285,7 +285,7 @@ header.masthead p {
   font-size: 16px;
   font-style: italic;
   margin: 0;
-  font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Calibri','Helvetica Neue', Helvetica, Arial, cursive;
 }
 
 #portfolio * {
