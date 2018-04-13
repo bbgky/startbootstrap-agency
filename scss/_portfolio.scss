@@ -85,12 +85,16 @@
     }
     p {
       margin-bottom: 30px;
+      text-align: left;
     }
     p.item-intro {
       font-size: 16px;
       font-style: italic;
       margin: 20px 0 30px;
       @include serif-font;
+    }
+    ol {
+      text-align: left;
     }
     ul.list-inline {
       margin-top: 0;
