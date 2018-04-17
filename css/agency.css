@@ -26,7 +26,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section {
@@ -55,7 +55,7 @@ section h3.section-subheading {
 }
 
 .btn {
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -110,7 +110,7 @@ img::-moz-selection {
   color: white;
   border: 0;
   background-color: #6E7C8B;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
@@ -128,7 +128,7 @@ img::-moz-selection {
   padding: 0.75em 0;
   letter-spacing: 1px;
   color: white;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -183,17 +183,18 @@ header.masthead hr {
 
 header.masthead h1 {
   font-size: 2rem;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 header.masthead p {
   font-weight: 300;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 @media (min-width: 768px) {
   header.masthead p {
-    font-size: 1.15rem;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.25rem;
+    font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
 }
 
@@ -628,27 +629,27 @@ section#contact .form-control:focus {
 section#contact ::-webkit-input-placeholder {
   font-weight: 700;
   color: #ced4da;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section#contact :-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
   /* Firefox 18- */
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section#contact ::-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
   /* Firefox 19+ */
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section#contact :-ms-input-placeholder {
   font-weight: 700;
   color: #ced4da;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 footer {
@@ -660,7 +661,7 @@ footer span.copyright {
   font-size: 90%;
   line-height: 40px;
   text-transform: none;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 footer ul.quicklinks {
@@ -668,7 +669,7 @@ footer ul.quicklinks {
   line-height: 40px;
   margin-bottom: 0;
   text-transform: none;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Microsoft YaHei', 'PingFang SC' , 'Montserrat', Tahoma,'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 ul.social-buttons {
