@@ -14,7 +14,7 @@
     opacity: 0;
     color: $white;
     background: fade-out($primary, .1);
-    @include transition-all;
+    // @include transition-all;
     .portfolio-box-caption-content {
       position: absolute;
       top: 50%;
@@ -24,7 +24,7 @@
       .project-category,
       .project-name {
         padding: 0 15px;
-        @include sans-serif-font;
+        @include heading-font;
       }
       .project-category {
         font-size: 14px;
